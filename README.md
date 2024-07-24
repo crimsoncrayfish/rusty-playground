@@ -1,0 +1,2 @@
+# rusty-playground
+learning rust
